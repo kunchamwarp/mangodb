@@ -1,0 +1,25 @@
+{
+  "name": "markdown-app",
+  "version": "1.0.0",
+  "description": "Test App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunchamwarp/mangodb.git"
+  },
+  "keywords": [
+    "mangodb",
+    "nodejs",
+    "expressjs",
+    "react"
+  ],
+  "author": "PK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunchamwarp/mangodb/issues"
+  },
+  "homepage": "https://github.com/kunchamwarp/mangodb#readme"
+}
